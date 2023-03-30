@@ -106,6 +106,7 @@ nav ul li a:hover{
     width: 35px;
     cursor: pointer;
     z-index: 1;
+    visibility: hidden;
   
 }
 
